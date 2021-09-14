@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\Downloads\visual проекты\ConsoleApplication1\ConsoleApplication1.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Downloads\visual проекты\ConsoleApplication1\ConsoleApplication1.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Downloads\visual проекты\ConsoleApplication1\ConsoleApplication1.cpp(7,17): warning C4101: end: неиспользованная локальная переменная
+E:\Downloads\visual проекты\ConsoleApplication1\ConsoleApplication1.cpp(7,10): warning C4101: start: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> E:\Downloads\visual проекты\ConsoleApplication1\Debug\ConsoleApplication1.exe
